@@ -14,7 +14,7 @@ AUTHOR ~Daniel Valle, dan@danielvalle.net~
 
 AUTO_TRA ~LCA_EXPLICIT/TRA/%s~ 
 LANGUAGE ~English~ ~english~ ~LCA_EXPLICIT/TRA/ENGLISH/XALCAEX.TRA~
-LANGUAGE ~Simplified Chinese（by mogui45）~ ~schinese~ ~LCA/TRA/schinese/XALCAEET.TRA~
+LANGUAGE ~Simplified Chinese（by mogui45）~ ~schinese~ ~LCA_EXPLICIT/TRA/schinese/XALCAEX.TRA~
 BEGIN
 
 @001 /* ~Love Conquers All (LCA) - Explicit~ */
